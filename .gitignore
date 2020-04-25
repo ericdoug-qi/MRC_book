@@ -1,0 +1,11 @@
+# pycharm
+.idea/
+*.iml
+*.DS_Store
+
+# log
+*.log
+
+# py
+*.pyc
+__pycache__
